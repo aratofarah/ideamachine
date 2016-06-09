@@ -1,0 +1,2 @@
+# ideamachine
+for dev ideas
